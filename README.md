@@ -10,7 +10,7 @@ Since then, I've been diving deep into coding, creating cool things, and learnin
 While you'll find a few of my projects here on GitHub, most of my work remains private. 🔒 <br/>
 That said, the public projects here offer a glimpse into the work I enjoy doing — though not the full picture! <br/>
 <br>
-When I'm not coding, you'll probably find me:  
+When I'm not coding, you'll probably find me: <br/>
 💦 Huffing spray paint <br/>
 🤝 Annoying the hell out of the few friends that I have <br/>
 🎨 Ocassionaly learning new skills that may or may not actually be useful <br/>
