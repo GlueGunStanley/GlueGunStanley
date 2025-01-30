@@ -1,16 +1,42 @@
-## Hi there 👋
+### <div align="center">Welcome To  My Profile!</div>
+---
+<br>
+Howdy! I'm Stanley. 👨‍💻  <br/>
+<br>
+I'm a passionate developer with a strong focus on the FiveM community. <br/>
+My journey started in 2018, creating resources for the FiveM platform. 🎮 <br/>
+Since then, I've been diving deep into coding, creating cool things, and learning something new every now and then. 🌱 <br/>
+<br>
+While you'll find a few of my projects here on GitHub, most of my work remains private. 🔒 <br/>
+That said, the public projects here offer a glimpse into the work I enjoy doing — though not the full picture! <br/>
+<br>
+When I'm not coding, you'll probably find me:  
+💦 Huffing spray paint <br/>
+🤝 Annoying the hell out of the few friends that I have <br/>
+🎨 Ocassionaly learning new skills that may or may not actually be useful <br/>
+🛠️ Working on side projects that will probably never see the light of day <br/>
+<br>
+If you're here to explore my work, feel free to check out some of my repositories. <br/>
+If you're weird and you really want to, you can also check out some of my GitHub stats. <br/>
+<br>
+<div align="center">
+	<p>
+		<br/>
+		<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GlueGunStanley&layout=compact">
+		<br/>
+		<img alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api?username=GlueGunStanley&count_private=true&show_icons=true">
+	</p>
+</div>
+<br/>
 
-<!--
-**GlueGunStanley/GlueGunStanley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🌟 Fun Fact  
+> I'm a retired Emergency Medical Technician! 🚑
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### 👋 Goodbye
+
+> Thanks for stopping by — happy trails! 🤠
+
+---
