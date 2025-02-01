@@ -20,6 +20,7 @@ If you're here to explore my work, feel free to check out some of my repositorie
 If you're weird and you really want to, you can also check out some of my GitHub stats. <br/>
 <br>
 <div align="center">
+<br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats-green-alpha-95.vercel.app/api/top-langs/?username=GlueGunStanley&layout=compact&theme=dark" alt="Top Languages" />
   </a>
