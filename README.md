@@ -20,12 +20,14 @@ If you're here to explore my work, feel free to check out some of my repositorie
 If you're weird and you really want to, you can also check out some of my GitHub stats. <br/>
 <br>
 <div align="center">
-	<p>
-		<br/>
-		<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GlueGunStanley&layout=compact">
-		<br/>
-		<img alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api?username=GlueGunStanley&count_private=true&show_icons=true">
-	</p>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats-green-alpha-95.vercel.app/api/top-langs/?username=GlueGunStanley&layout=compact&theme=dark" alt="Top Languages" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats-green-alpha-95.vercel.app/api?username=GlueGunStanley&count_private=true&show_icons=true&hide=stars&theme=dark" />
+  </a>
 </div>
 <br/>
 
